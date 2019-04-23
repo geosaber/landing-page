@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://geosaber.github.io/landing-page
+title: Geosaber
+email: geosaber@gmail.com
+author: Sidney S Goveia
+description: > # "Write an awesome description for your new site here. 
+  Portal de Geotecnologias Abertas
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/SS_Goveia
+  - title: github
+    url: https://github.com/geosaber
+  - title: linkedin
+    url: 
