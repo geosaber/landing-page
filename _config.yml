@@ -2,12 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://geosaber.github.io/landing-page
-title: Geosaber
+url: https://geosaber.com.br
+title: Geosaber - Portal de Geotecnologias
 email: geosaber@gmail.com
-author: Sidney S Goveia
+author: Sidney Goveia
 description: > # "Write an awesome description for your new site here. 
-  Portal de Geotecnologias Abertas
+  Cursos de QGIS, GRASS GIS, R, PostGIS, FOSS4G
+copyright: 'Copyright &copy; 2008 Geosaber. Todos os Direitos Reservados.'
+credits: 'Audoc.con Assessoria e Consultoria <a href="http://audoc.com.br">website</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -23,8 +25,12 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SS_Goveia
+    url: https://twitter.com/SS_Geosaber
   - title: github
     url: https://github.com/geosaber
   - title: linkedin
-    url: 
+    url: https://linkedin.com/company/geosaber
+  - title: facebook
+    url: https://facebook.com/pg/geosaber
+
+    
